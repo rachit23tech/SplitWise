@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "654599038714",
+    "project_id": "my-flutter-splitwise",
+    "storage_bucket": "my-flutter-splitwise.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:654599038714:android:9110831b6889c8a8460b43",
+        "android_client_info": {
+          "package_name": "com.example.splitwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC70HR37gu26Ivtg5BG13IL9fRX40Udr6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
